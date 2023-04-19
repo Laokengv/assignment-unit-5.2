@@ -18,3 +18,13 @@ h2 {
 }
 
 
+body {
+    background-image: url("record.png");
+    background-repeat: repeat;
+    margin: 0;
+}
+
+p {
+    padding-left: 15px;
+    color: crimson;
+}
